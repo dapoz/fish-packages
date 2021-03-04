@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/dapoz/plugin-vtex
+maintainer = dapoz
+description = Functions to get VTEX.IO account and workspace information and useful VTEX Toolbelt abbreviations

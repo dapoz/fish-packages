@@ -1,0 +1,4 @@
+type = theme
+repository = https://github.com/dapoz/theme-vtex-emoji
+maintainer = dapoz
+description = OMF theme with VTEX IO account and workspace info, plus other goodies (path, git status)
